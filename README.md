@@ -1,6 +1,6 @@
 # **Daniel Evans Systems Assignment**
 
-This is a C++ program/CLI that uses POSIX sockets to make HTTP/1.1 GET REQUESTS.
+This is a C++ program/CLI that uses POSIX sockets to make HTTP/1.1 GET REQUESTS and evaluate their speed.
 Please note that this program will not work on a Windows computer unless a Linux VM is running on it.
 This program will work on Linux/Unix and MacOS.
 
